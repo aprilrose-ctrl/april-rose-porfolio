@@ -1,0 +1,19 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+::selection {
+  background: #b69cff;
+  color: #100d19;
+}
